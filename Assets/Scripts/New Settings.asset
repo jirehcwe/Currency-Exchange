@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 391a513cf3fb2f84da1ae577586d3986, type: 3}
+  m_Name: New Settings
+  m_EditorClassIdentifier: 
+  mixedToggle: 1
+  difficultySlider: 0
+  MaxAddUsdNum: 0
+  MaxAddRielsNum: 1
+  MinAddUsdNum: 0
+  MinAddRielsNum: 1
+  minRielsValue: 500
+  bombSpeed: 0.01
+  maxRielsValue: 5000

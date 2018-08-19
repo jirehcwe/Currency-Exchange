@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1076649817342924}
+  m_IsPrefabParent: 1
+--- !u!1 &1076649817342924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4573172991052698}
+  - component: {fileID: 114800311166718496}
+  m_Layer: 0
+  m_Name: basketManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4573172991052698
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076649817342924}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 217.50737, y: -31.102188, z: 3.449542}
+  m_LocalScale: {x: 2.0439947, y: 2.0439944, z: 2.0439944}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114800311166718496
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076649817342924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1c85abe68a6c341b75f4275a3f2e27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  groceryBasket: {fileID: 0}
+  displayFruitGroup: {fileID: 0}
+  fruitGroups:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  prefabFruits:
+  - {fileID: 1859581028770216, guid: c0890e61252d9a44b8f393d35860619f, type: 2}
+  - {fileID: 1181769343848150, guid: 6f5118ddc7cd61e478687c484da5952d, type: 2}
+  - {fileID: 1771230416483966, guid: 55160423f1f938940b4d539952c01cbb, type: 2}
+  - {fileID: 1991992374722822, guid: 908a4afa995497f40a6bc623fdfa296a, type: 2}
+  - {fileID: 1575983240446510, guid: ac2a2ff753eaa3141899309eba0fcb0a, type: 2}
+  - {fileID: 1569005240203774, guid: 6573770eb659304439fc60f6bf6c59c1, type: 2}
+  - {fileID: 1657386284870174, guid: 32b02a33fe3bbe64586942a70814dfb8, type: 2}
+  - {fileID: 1197252961003724, guid: c637741b2d105d54a8cc57a4cb401ba6, type: 2}

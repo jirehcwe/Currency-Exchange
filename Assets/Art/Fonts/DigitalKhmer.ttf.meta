@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4e19ce3824f1ae8459a035a3495448c6
+timeCreated: 1528529579
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital-7
+  fontNames:
+  - Digital-7
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39ec04f9e1dca504ebcae962839a423d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

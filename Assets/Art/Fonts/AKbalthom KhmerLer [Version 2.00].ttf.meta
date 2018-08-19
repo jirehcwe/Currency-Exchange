@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 30db1d23983d6423a9850003e003c115
+timeCreated: 1528553047
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AKbalthom KhmerLer
+  fontNames:
+  - AKbalthom KhmerLer
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
