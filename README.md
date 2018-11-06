@@ -12,4 +12,4 @@ One particular extension I'm proud of is the localisation system for the game. L
 
 ### Files needed
 
-The files needed are Localisation.cs, DictionaryDrawer.cs (editor script) and SerializableDictionary.cs. I can't remember where or how I how the SerializableDictionary, but that code was not written by me, so credits to that person! I needed a serializable dictionary for the editor script to work, and his was the best I could find.
+The files needed are Localisation.cs, DictionaryDrawer.cs (editor script) and SerializableDictionary.cs. I can't remember where or how I found the SerializableDictionary, but that code was not written by me, so credits to that person! I needed a serializable dictionary for the editor script to work, and his was the best I could find.
