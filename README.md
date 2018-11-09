@@ -2,6 +2,10 @@
 
 Currency Exchange is a math/currency game created for [Hope Training Centre](https://ohf.org.sg/tjsss-programme-cambodia/) located in Cambodia, Prey Veng. It was done in collaboration with [Operation Hope Foundation](https://ohf.org.sg) and [Renaissance Engineering Programme's HEAL Team](http://www.ntu.edu.sg/rep/reclub/Pages/Humanitarian-Engineers-and-Leaders.aspx)
 
+The app can be downloaded from the Google Playstore!
+
+[DOWNLOAD HERE](https://play.google.com/store/apps/details?id=com.nturepheal.currex)
+
 ![Screenshot of game](Assets/Art/screenshot.png)
 
 ![Screenshot of gameplay](Assets/Art/DSC08873.JPG)
